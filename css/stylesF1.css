@@ -1,0 +1,46 @@
+html{
+    height: max-content;
+    margin: 0;
+}
+
+.filtro{
+    filter: brightness(55%);
+}
+
+.carrusel img{
+    height: 1000px;
+}
+
+.col img{
+    height: 400px;
+}
+
+#proxCarrera img{
+    height: 500px;
+}
+
+/* Se agrega un subrayado con puntitos */
+u{
+    text-decoration: underline dotted;
+}
+
+/* Se hace el estilo del boton del formulario */
+.enviar{
+    color: #ffffff;
+}
+
+/* Estilo del nav del footer */
+.footer-bottom{
+    background-color: #1d5171;
+}
+
+.footer-bottom ul li{
+    padding: 0px 10px;
+    margin: 0px 40px;
+    width: 130px;
+}
+
+.footer-bottom a{
+    text-decoration: none;
+    color: #ffffff;
+}
