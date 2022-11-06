@@ -1,0 +1,69 @@
+html{
+    height: 100vh;
+    margin: 0;
+}
+
+/*Se aplica sombra a las cards de categoria*/
+.sombreadoCard1{
+    box-shadow: -1px 5px 5px 0px rgba(220,52,68,0.75);
+    -webkit-box-shadow: -1px 5px 5px 0px rgba(220,52,68,0.75);
+    -moz-box-shadow: -1px 5px 5px 0px rgba(220,52,68,0.75);
+}
+
+.sombreadoCard2{
+    box-shadow: -1px 5px 5px 0px rgba(20,116,252,0.75);
+    -webkit-box-shadow: -1px 5px 5px 0px rgba(20,116,252,0.75);
+    -moz-box-shadow: -1px 5px 5px 0px rgba(20,116,252,0.75);
+}
+
+.sombreadoCard3{
+    box-shadow: -1px 5px 5px 0px rgba(12,204,244,0.75);
+    -webkit-box-shadow: -1px 5px 5px 0px rgba(12,204,244,0.75);
+    -moz-box-shadow: -1px 5px 5px 0px rgba(12,204,244,0.75);
+}
+
+.cards:hover{
+    background-color: #8585856b;
+    transform: translateY(3px);
+    transition: 20ms;
+}
+
+/*Se aplica estilo a la imagen de la escuderia*/
+#imgScuderia{
+    width: 150px;
+    height: 150px;
+}
+
+/* Estilo del nav del footer */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+  }
+
+.footer-bottom{
+    background-color: #1d5171;
+}
+
+.footer-bottom ul li{
+    padding: 0px 10px;
+    margin: 0px 40px;
+    width: 130px;
+}
+
+.footer-bottom a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/*Se aplican estilos para el darkmode*/
+.dimmer{
+    color: #ffffff;
+    background-color: #28242c;
+}
+
+.dimmerCards{
+    color: #ffffff;
+    background-color: #1a181b;
+}

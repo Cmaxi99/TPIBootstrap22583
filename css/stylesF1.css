@@ -1,5 +1,5 @@
 html{
-    height: max-content;
+    height: 100vh;
     margin: 0;
 }
 
@@ -22,11 +22,6 @@ html{
 /* Se agrega un subrayado con puntitos */
 u{
     text-decoration: underline dotted;
-}
-
-/* Se hace el estilo del boton del formulario */
-.enviar{
-    color: #ffffff;
 }
 
 /* Estilo del nav del footer */
