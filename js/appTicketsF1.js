@@ -3,19 +3,19 @@
 const IMGSCUDERIAS = [
     {
         escuderia: 'RedBull',
-        src: '../img/redBullBandera.jpg',
+        src: 'img/redBullBandera.jpg',
         alt: 'RedBull Bandera',
         color: '#182c7c'
     },
     {
         escuderia: 'Ferrari',
-        src: '../img/ferrariBandera.png',
+        src: 'img/ferrariBandera.png',
         alt: 'Ferrari Bandera',
         color: '#ff141c'
     },
     {
         escuderia: 'Mercedes',
-        src: '../img/mercedesBandera.jpg',
+        src: 'img/mercedesBandera.jpg',
         alt: 'Mercedes Bandera',
         color: '#268181'
     },
